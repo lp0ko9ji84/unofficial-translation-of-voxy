@@ -128,4 +128,4 @@ unofficial translation of voxy .You can share and save it to other websites.更�
 - zh_hk.json-繁體中文（香港特別行政區）
 - zh_tw.json-繁體中文（台灣）
 - zlm_arab.json-بهاس ملايو
-- 
+  ![awa](https://cdn.modrinth.com/data/cached_images/38f5d05eaf099e638ef6dda5a1a5c89b77a13bdf.png)
