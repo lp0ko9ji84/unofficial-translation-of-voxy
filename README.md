@@ -1,0 +1,131 @@
+unofficial translation of voxy .You can share and save it to other websites.更多语言[准确性不知道]More languages ​​[Accuracy unknown]_(:з)∠)_
+译者:F光荣进退有度![More languages ​​[Accuracy unknown]](https://cdn.modrinth.com/data/cached_images/b0b09b24ca82a7d3b6f7519328dec90b3ede2426.png)
+- af_za.json-Afrikaans
+- ar_sa.json-اللغة العربية
+- ast_es.json-Asturianu
+- az_az.json-Azərbaycanca
+- ba_ru.json-Башҡортса
+- bar.json-Boarisch
+- be_by.json-Беларуская
+- bg_bg.json-Български
+- br_fr.json-Brezhoneg
+- brb.json-Braobans
+- bs_ba.json-Bosanski
+- ca_es.json-Català
+- cs_cz.json-Čeština
+- cy_gb.json-Cymraeg
+- da_dk.json-Dansk
+- de_at.json-Österreichisches Deitsch
+- de_ch.json-Schwiizerdutsch
+- de_de.json-Deutsch
+- el_gr.json-Ελληνικά
+- en_au.json-English (Australia)
+- en_ca.json-English (Canada)
+- en_gb.json-English (United Kingdom)
+- en_nz.json-English (New Zealand)
+- en_pt.json-Pirate Speak
+- en_ud.json-ɥsᴉꞁᵷuƎ (uʍoᗡ ǝpᴉsd∩)
+- en_us.json-English (US)
+- enp.json-Anglish
+- enws.json-Shakespearean English
+- eo_uy.json-Esperanto
+- es_ar.json-Español (Argentina)
+- es_cl.json-Español (Chile)
+- es_ec.json-Español (Ecuador)
+- es_es.json-Español (España)
+- es_mx.json-Español (México)
+- es_uy.json-Español (Uruguay)
+- es_ve.json-Español (Venezuela)
+- esan.json-Andalûh
+- et_ee.json-Eesti
+- eu_es.json-Euskara
+- fa_ir.json-فارسی
+- fi_fi.json-Suomi
+- fil_ph.json-Filipino
+- fo_fo.json-Føroyskt
+- fr_ca.json-Français québécois
+- fr_fr.json-Français
+- fra_de.json-Frängisch
+- fur_it.json-Furlan
+- fy_nl.json-Frysk
+- ga_ie.json-Gaeilge
+- gd_gb.json-Gàidhlig
+- gl_es.json-Galego
+- haw_us.json-ʻŌlelo Hawaiʻi
+- he_il.json-עברית
+- hi_in.json-हिन्दी
+- hr_hr.json-Hrvatski
+- hu_hu.json-Magyar
+- hy_am.json-Հայերեն
+- id_id.json-Bahasa Indonesia
+- ig_ng.json-Igbo
+- io_en.json-Ido
+- is_is.json-Íslenska
+- isv.json-Medžuslovjansky
+- it_it.json-Italiano
+- ja_jp.json-日本語
+- jbo_en.json-la .lojban.
+- ka_ge.json-ქართული
+- kk_kz.json-Қазақша
+- kn_in.json-ಕನ್ನಡ
+- ko_kr.json-한국어
+- ksh.json-Kölsch/Ripoarisch
+- kw_gb.json-Kernewek
+- la_la.json-Latina
+- lb_lu.json-Lëtzebuergesch
+- li_li.json-Limburgs
+- lmo.json-Lombard
+- lo_la.json-ລາວ（ປະເທດລາວ）
+- lol_us.json-LOLCAT
+- lt_lt.json-Lietuvių
+- lv_lv.json-Latviešu
+- lzh.json-文言（華夏）
+- mk_mk.json-Македонски
+- mn_mn.json-Монгол
+- ms_my.json-Bahasa Melayu
+- mt_mt.json-Malti
+- nah.json-Mēxikatlahtōlli
+- nds_de.json-Platdüütsk
+- nl_be.json-Vlaams
+- nl_nl.json-Nederlands
+- nn_no.json-Norsk nynorsk
+- no_no.json-Norsk Bokmål
+- oc_fr.json-Occitan
+- ovd.json-Övdalsk
+- pl_pl.json-Polski
+- pt_br.json-Português (Brasil)
+- pt_pt.json-Português (Portugal)
+- qya_aa.json-Quenya
+- ro_ro.json-Română
+- rpr.json-Дореформенный русскій
+- ru_ru.json-Русский
+- ry_ua.json-руснацькый
+- sah_sah.json-Сахалыы（Cаха Сирэ）
+- se_no.json-Davvisámegiella
+- sk_sk.json-Slovenčina
+- sl_si.json-Slovenščina
+- so_so.json-Af-Soomaali
+- sq_al.json-Shqip
+- sr_cs.json-Srpski
+- sr_sp.json-Српски
+- sv_se.json-Svenska
+- sxu.json-Säggs'sch
+- szl.json-Ślōnskŏ
+- ta_in.json-தமிழ்
+- th_th.json-ภาษาไทย
+- tl_ph.json-Tagalog
+- tlh_aa.json-tlhIngan Hol
+- tok.json-toki pona
+- tr_tr.json-Türkçe
+- tt_ru.json-Татарча
+- uk_ua.json-Українська
+- val_es.json-Català (Valencià)
+- vec_it.json-Vèneto
+- vi_vn.json-Tiếng Việt
+- yi_de.json-ייִדיש
+- yo_ng.json-Yorùbá
+- zh_cn.json-简体中文（中国大陆）
+- zh_hk.json-繁體中文（香港特別行政區）
+- zh_tw.json-繁體中文（台灣）
+- zlm_arab.json-بهاس ملايو
+- 
