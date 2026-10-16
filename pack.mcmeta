@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "description": {
+            "translate": "voxy.resource_pack.unofficial",
+            "fallback": "Voxy非官方翻譯，翻译人:F光荣进退有度"
+        },
+        "pack_format": 64,
+        "min_format": 15,
+        "max_format": 99,
+        "supported_formats": [15, 99]
+    }
+}
